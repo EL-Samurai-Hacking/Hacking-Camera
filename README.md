@@ -18,9 +18,13 @@ git clone https://github.com/EL-Samurai-Hacking/Hacking-Camera.git
 
 جيد ادخل للاداة 
 
-cd EL.Samurai.HaCK.Camera
+cd Hacking-Camera
 
 bash EL.Samurai.HaCK.Camera.sh
 
 
 كل شي عربي استمتع تحية EL Samurai
+
+
+كلمه المرور الخاصه بالاداة
+EL Samurai
